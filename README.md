@@ -43,7 +43,16 @@ cmd /K ""C:\ProgramData\App-V\B0CB51D7-9344-4757-855B-F1D9452B3FF6\EC0291BA-408E
 
 Replace S-YOURSTUDENTLOGIN with your school email address minus the @bsd405.org
 for example mine is s-wongje@bsd405.org
-so I would Replace S-YOURSTUDENTLOGIN 
-with s-wongje
 
+so I would Replace S-YOURSTUDENTLOGIN with s-wongje
+
+CLick Next THen Rename the shortcut to OpenRocket
+
+![image](https://github.com/user-attachments/assets/256b68eb-f3ef-4e14-989e-e2d611fe03af)
+
+
+Then CLick Finish 
+and you can open OpenRocket from the shortcut you just made  
+
+# Congratulations 
 
